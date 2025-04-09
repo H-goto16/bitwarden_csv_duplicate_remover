@@ -19,8 +19,7 @@ Python 3.x
 ## Installation / インストール
 
 ```bash
-git clone https://github.com/your-username/bitwarden-dedupe-script.git
-cd bitwarden-dedupe-script
+git clone https://www.github.com:H-goto16/bitwarden_csv_duplicate_remover.git
 ```
 
 - 外部ライブラリのインストールは不要です。
